@@ -15,7 +15,7 @@ function TopHeader() {
       <div className="container">
         <Link className="logo" to="/">
           {" "}
-          <img src={Logo} alt="Logo" />
+        Rafat Hanna
         </Link>
 
         <SerachBox />
