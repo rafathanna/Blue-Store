@@ -14,6 +14,7 @@ function TopHeader() {
     <div className="top_header">
       <div className="container">
         <Link className="logo" to="/">
+          {""}
       <img src={Logo} alt="Logo" />
         </Link>
 
